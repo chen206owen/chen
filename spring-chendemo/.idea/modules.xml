@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-chendemo.iml" filepath="$PROJECT_DIR$/.idea/spring-chendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-chendemo1/spring-chendemo1.iml" filepath="$PROJECT_DIR$/spring-chendemo1/spring-chendemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-chendemo2/spring-chendemo2.iml" filepath="$PROJECT_DIR$/spring-chendemo2/spring-chendemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-chendemo3/spring-chendemo3.iml" filepath="$PROJECT_DIR$/spring-chendemo3/spring-chendemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-chendemo4/spring-chendemo4.iml" filepath="$PROJECT_DIR$/spring-chendemo4/spring-chendemo4.iml" />
+    </modules>
+  </component>
+</project>

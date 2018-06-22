@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-chendemo1:war">
+    <output-path>$PROJECT_DIR$/spring-chendemo1/target</output-path>
+    <root id="archive" name="spring-chendemo1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-chendemo1:war exploded" />
+    </root>
+  </artifact>
+</component>
